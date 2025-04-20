@@ -1,4 +1,4 @@
 
 <kbd>
-  <img src="showcase.jpg">
+  <img src="showcase.png">
 </kbd>
